@@ -432,3 +432,35 @@ LogInit: Object subsystem initialized
 [2018.02.01-02.09.10:710][323]LogTemp:Display: Finished compile of shader map 0x000001396C2F5D00
 [2018.02.01-02.09.10:710][323]LogTemp:Display: Shader map M_CycWall_01 complete, GameThreadShaderMap 0x000001396C2F5D00, marking material M_CycWall_01 as finished
 [2018.02.01-02.09.10:710][323]LogTemp:Display: Marking material as finished 0x0000013908BCD600
+[2018.02.01-02.11.57:397][767]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.01-02.11.57:434][767]Cmd: MAP LOAD FILE="../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-02.11.57:434][767]LightingResults: New page: Lighting Build
+[2018.02.01-02.11.57:436][767]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.02.01-02.11.57:438][767]MapCheck: New page: Map Check
+[2018.02.01-02.11.57:438][767]LightingResults: New page: Lighting Build
+[2018.02.01-02.11.57:474][767]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-02.11.57:535][767]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-02.11.57:663][767]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 128.403ms to complete.
+[2018.02.01-02.11.57:664][767]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.231
+[2018.02.01-02.15.40:122][107]LogSavePackage: Save=27.02ms
+[2018.02.01-02.15.40:122][107]LogSavePackage: Moving '../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Saved/Main_Menu9E5682A44843883569D4998BC0088619.tmp' to '../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Content/FirstPersonBP/Maps/Main_Menu.umap'
+[2018.02.01-02.15.40:135][107]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Content/FirstPersonBP/Maps/Main_Menu.umap
+[2018.02.01-02.15.40:136][107]LogFileHelpers: Saving map 'Main_Menu' took 0.190
+[2018.02.01-02.15.40:140][107]Cmd: MAP LOAD FILE="../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Content/FirstPersonBP/Maps/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-02.15.40:141][107]LightingResults: New page: Lighting Build
+[2018.02.01-02.15.40:142][107]LoadErrors: New page: Loading map: Main_Menu.umap
+[2018.02.01-02.15.40:144][107]MapCheck: New page: Map Check
+[2018.02.01-02.15.40:144][107]LightingResults: New page: Lighting Build
+[2018.02.01-02.15.40:168][107]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-02.15.40:169][107]LogAIModule: Creating AISystem for world Main_Menu
+[2018.02.01-02.15.40:209][107]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-02.15.40:307][107]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 98.301ms to complete.
+[2018.02.01-02.15.40:309][107]LogFileHelpers: Loading map 'Main_Menu' took 0.171
+[2018.02.01-02.22.44:224][639]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 112 classes and 0 folders.
+[2018.02.01-02.22.45:554][639]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-02.22.45:561][639]LogSlate: Took 0.006217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.01-02.24.51:428][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Menu" FILE="../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Content/FirstPersonBP/Maps/Menu.uasset" SILENT=true
+[2018.02.01-02.24.51:454][145]LogSavePackage: Save=19.98ms
+[2018.02.01-02.24.51:454][145]LogSavePackage: Moving '../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Saved/Menu8BED95564B844575F433FF8C9B7EB32C.tmp' to '../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Content/FirstPersonBP/Maps/Menu.uasset'
+[2018.02.01-02.24.51:464][145]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sandy/Documents/GitHub/MonsterDefender/Content/FirstPersonBP/Maps/Menu.uasset
+[2018.02.01-02.24.52:340][168]BlueprintLog: New page: Compile Menu
